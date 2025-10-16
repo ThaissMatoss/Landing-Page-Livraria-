@@ -1,0 +1,215 @@
+/* Estilo geral das seções */
+section {
+    padding: 20px 15px;
+    margin-top: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color:  #4B0082;
+
+  }
+  
+  .mais-vendidos {
+    background-color:  #43007c;
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .mais-vendidos h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .mais-vendidos p {
+    font-size: 18px;
+    color: #FFFFFF;
+  }
+
+  .vendidos-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 1px;
+  }
+  
+  
+  .vendidos{
+    background-color:   #fff;
+    width: 200px;           
+    height: 320px;             
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px #aaaaaaaa;
+    overflow: hidden;
+    margin: 0;   
+    margin-bottom: 100px;
+    padding: 10px;
+  
+  }
+  
+  .vendidos img {
+    width: 100%;
+    height: 130px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+  
+  .vendidos div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    height: 50%;
+  }
+  
+  .vendidos h3 {
+    font-size: 15px;
+    margin: 15px;
+    color: #000000;
+  }
+  
+  .vendidos p {
+    font-size: 15px;
+    color: #000000;
+    margin-top: 10px;
+  }
+  
+  .vendidos button {
+    background-color: #4B0082;
+    height: 30px;
+    border: none;
+    padding: 4px;
+    width: 80%;
+    color:#fff;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  
+  .vendidos button:hover {
+    background-color: rgba(137, 43, 226, 0.65);
+    cursor: pointer;
+  }
+  
+  /* Depoimentos */
+  .depoimentos {
+    background-color: #43007c;
+    padding: 50px 20px;
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  
+  .depoimentos h2 {
+    margin-bottom: 30px;
+    font-size: 28px;
+  }
+  
+  .comentario {
+    background-color:  #43007c;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 700px;
+    font-style: italic;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+
+  }
+  
+  /* Sobre */
+  .sobre {
+    background-color: #43007c;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 12px;
+    margin-top: 100px;
+
+  }
+  
+  .sobre h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  
+  .sobre p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ccc;
+  }
+  
+  /* FAQ */
+  .faq {
+    background-color:  #43007c;
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+  }
+  
+  .faq h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+  }
+  
+  .faq details {
+    background-color: #43007c;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 700px;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .faq summary {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .faq p {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #ddd;
+  }
+  
+  /* CTA Final */
+  .cta-final {
+    background-color: #8e2fff;
+    color: white;
+    padding: 60px 20px;
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: 0 auto 80px auto;
+  }
+  
+  .cta-final h2 {
+    font-size: 32px;
+    margin-bottom: 25px;
+  }
+  
+  .cta-final .botao {
+    display: inline-block;
+    background-color: #fff;
+    color: #8e2fff;
+    padding: 14px 30px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .cta-final .botao:hover {
+    background-color: #e5d5ff;
+    color: #5b00b5;
+  }
+  
