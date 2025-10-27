@@ -5,9 +5,6 @@ Este projeto é uma landing page de uma livraria, desenvolvida utilizando **HTML
 
 A página contém seções para destaque de livros, promoções, categorias de produtos e interação com elementos como botões e animações leves.  
 
-## Estrutura de Arquivos
-O projeto possui a seguinte estrutura:
-
 # Estrutura do Projeto
 
 - Livraria/
