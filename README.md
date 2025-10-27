@@ -8,19 +8,22 @@ A página contém seções para destaque de livros, promoções, categorias de p
 ## Estrutura de Arquivos
 O projeto possui a seguinte estrutura:
 
-Livraria/
-├── index.html # Página principal
-├── estilo.css # Estilos principais
-├── estilocard_footer.css# Estilos específicos para cards e footer
-├── estilovendidos.css # Estilos para produtos vendidos/destaques
-├── script.js # Script para interatividade
-├── ante.png # Imagem ilustrativa do livro: Como eu antes de você
-├── jogos.png # Imagem ilustrativa do livro: Jogos Vorazes
-├── maridos.png # Imagem ilustrativa do livro: Os 7 maridos de Evelyn Hugo
-├── mil.png # Imagem ilustrativa do livro: As mil partes do meu coração
-├── rainha.png # Imagem ilustrativa do livro: Rainha Vermelha
-├── seleção.png # Imagem ilustrativa do livro: A Seleção
-└── README.md # Documentação do projeto
+# Estrutura do Projeto
+
+- Livraria/
+  - index.html        # Página principal
+  - estilo.css        # Estilos principais
+  - estilocard_footer.css  # Estilos específicos para cards e footer
+  - estilovendidos.css      # Estilos para produtos vendidos/destaques
+  - script.js         # Script para interatividade
+  - ante.png          # Imagem: Como eu antes de você
+  - jogos.png         # Imagem: Jogos Vorazes
+  - maridos.png       # Imagem: Os 7 maridos de Evelyn Hugo
+  - mil.png           # Imagem: As mil partes do meu coração
+  - rainha.png        # Imagem: Rainha Vermelha
+  - seleção.png       # Imagem: A Seleção
+  - README.md         # Documentação do projeto
+
 
 
 ## Funcionalidades
